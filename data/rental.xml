@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rental>
+	<rental>
+		<rentalNumber>875348</rentalNumber>
+		<rentalName>mem</rentalName>
+		<rentalAge>23</rentalAge>
+		<rentalAddress>agdao</rentalAddress>
+	</rental>
+	<rental>
+		<rentalNumber>95934059</rentalNumber>
+		<rentalName>jean</rentalName>
+		<rentalAge>22</rentalAge>
+		<rentalAddress>blvd</rentalAddress>
+	</rental>
+	<rental>
+		<rentalNumber>443</rentalNumber>
+		<rentalName>ava</rentalName>
+		<rentalAge>12</rentalAge>
+		<rentalAddress>bhangin</rentalAddress>
+	</rental>
+	<rental>
+		<rentalNumber>535</rentalNumber>
+		<rentalName>bianc</rentalName>
+		<rentalAge>22</rentalAge>
+		<rentalAddress>agdao</rentalAddress>
+	</rental>
+</rental>
